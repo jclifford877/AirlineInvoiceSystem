@@ -1,0 +1,643 @@
+{
+"products": [
+  {
+    "type": "PrioritySeating",
+    "productCode": "xer1"
+  },
+  {
+    "departureCity": {
+      "airportCode": "ORD",
+      "airportName": "Chicago O\u0027Hare International",
+      "address": {
+        "street": "10000 W O\u0027Hare Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60666",
+        "country": "IL"
+      },
+      "latitude": 41.833333333333336,
+      "longitude": 87.61666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "PHX",
+      "airportName": "Phoenix Sky Harbor International",
+      "address": {
+        "street": "3400 E Sky Harbor Blvd",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "country": "USA"
+      },
+      "latitude": 33.483333333333334,
+      "longitude": 112.06666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "09:09",
+    "arrivalDateTime": "11:06",
+    "flightNo": "N725",
+    "flightClass": "BC",
+    "aircraftType": "Airbus-A319",
+    "costPerMile": 0.5,
+    "productCode": "1261"
+  },
+  {
+    "seasonStartDate": "2015-00-01",
+    "seasonEndDate": "2016-00-12",
+    "rebate": 0.15,
+    "departureCity": {
+      "airportCode": "PHX",
+      "airportName": "Phoenix Sky Harbor International",
+      "address": {
+        "street": "3400 E Sky Harbor Blvd",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "country": "USA"
+      },
+      "latitude": 33.483333333333334,
+      "longitude": 112.06666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "ORD",
+      "airportName": "Chicago O\u0027Hare International",
+      "address": {
+        "street": "10000 W O\u0027Hare Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60666",
+        "country": "IL"
+      },
+      "latitude": 41.833333333333336,
+      "longitude": 87.61666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "14:24",
+    "arrivalDateTime": "19:56",
+    "flightNo": "N2000",
+    "flightClass": "BC",
+    "aircraftType": "Airbus-A320",
+    "costPerMile": 0.5,
+    "productCode": "1262"
+  },
+  {
+    "name": "NationalInsurance",
+    "ageClass": "0-20",
+    "costPerMile": 0.07,
+    "productCode": "ff23"
+  },
+  {
+    "type": "WheelChair",
+    "productCode": "xer2"
+  },
+  {
+    "seasonStartDate": "2015-00-15",
+    "seasonEndDate": "2016-00-29",
+    "rebate": 0.25,
+    "departureCity": {
+      "airportCode": "PHX",
+      "airportName": "Phoenix Sky Harbor International",
+      "address": {
+        "street": "3400 E Sky Harbor Blvd",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "country": "USA"
+      },
+      "latitude": 33.483333333333334,
+      "longitude": 112.06666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "ORD",
+      "airportName": "Chicago O\u0027Hare International",
+      "address": {
+        "street": "10000 W O\u0027Hare Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60666",
+        "country": "IL"
+      },
+      "latitude": 41.833333333333336,
+      "longitude": 87.61666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "07:10",
+    "arrivalDateTime": "12:42",
+    "flightNo": "N488",
+    "flightClass": "EC",
+    "aircraftType": "Airbus-A320",
+    "costPerMile": 0.15,
+    "productCode": "1263"
+  },
+  {
+    "name": "Progressive",
+    "ageClass": "55-68",
+    "costPerMile": 0.09,
+    "productCode": "ff24"
+  },
+  {
+    "type": "BabyBassinet",
+    "productCode": "xer4"
+  },
+  {
+    "name": "Progressive",
+    "ageClass": "69-102",
+    "costPerMile": 0.1,
+    "productCode": "ff25"
+  },
+  {
+    "redeemptionFee": 30.0,
+    "pointsPerMile": 110.0,
+    "departureCity": {
+      "airportCode": "ORD",
+      "airportName": "Chicago O\u0027Hare International",
+      "address": {
+        "street": "10000 W O\u0027Hare Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60666",
+        "country": "IL"
+      },
+      "latitude": 41.833333333333336,
+      "longitude": 87.61666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "PHX",
+      "airportName": "Phoenix Sky Harbor International",
+      "address": {
+        "street": "3400 E Sky Harbor Blvd",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "country": "USA"
+      },
+      "latitude": 33.483333333333334,
+      "longitude": 112.06666666666666,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "09:09",
+    "arrivalDateTime": "11:06",
+    "flightNo": "N725",
+    "flightClass": "EP",
+    "aircraftType": "Airbus-A319",
+    "costPerMile": 0.2,
+    "productCode": "1260"
+  },
+  {
+    "name": "NationalInsurance",
+    "ageClass": "21-60",
+    "costPerMile": 0.085,
+    "productCode": "fh23"
+  },
+  {
+    "seasonStartDate": "2015-00-07",
+    "seasonEndDate": "2016-00-29",
+    "rebate": 0.1,
+    "departureCity": {
+      "airportCode": "LNK",
+      "airportName": "Lincoln Municipal",
+      "address": {
+        "street": "2400 W Adams St",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68524",
+        "country": "USA"
+      },
+      "latitude": 40.833333333333336,
+      "longitude": 96.66666666666667,
+      "passengerFacilityFee": 0.0
+    },
+    "arrivalCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "06:00",
+    "arrivalDateTime": "09:08",
+    "flightNo": "NA4889",
+    "flightClass": "EC",
+    "aircraftType": "CRJ900",
+    "costPerMile": 0.15,
+    "productCode": "1240"
+  },
+  {
+    "departureCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "LNK",
+      "airportName": "Lincoln Municipal",
+      "address": {
+        "street": "2400 W Adams St",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68524",
+        "country": "USA"
+      },
+      "latitude": 40.833333333333336,
+      "longitude": 96.66666666666667,
+      "passengerFacilityFee": 0.0
+    },
+    "departureDateTime": "21:15",
+    "arrivalDateTime": "22:42",
+    "flightNo": "NA4871",
+    "flightClass": "EC",
+    "aircraftType": "CRJ900",
+    "costPerMile": 0.15,
+    "productCode": "1241"
+  },
+  {
+    "seasonStartDate": "2015-00-07",
+    "seasonEndDate": "2016-00-29",
+    "rebate": 0.2,
+    "departureCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "LNK",
+      "airportName": "Lincoln Municipal",
+      "address": {
+        "street": "2400 W Adams St",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68524",
+        "country": "USA"
+      },
+      "latitude": 40.833333333333336,
+      "longitude": 96.66666666666667,
+      "passengerFacilityFee": 0.0
+    },
+    "departureDateTime": "21:15",
+    "arrivalDateTime": "22:42",
+    "flightNo": "NA4871",
+    "flightClass": "EP",
+    "aircraftType": "CRJ900",
+    "costPerMile": 0.2,
+    "productCode": "1243"
+  },
+  {
+    "ticket": {
+      "redeemptionFee": 30.0,
+      "pointsPerMile": 110.0,
+      "departureCity": {
+        "airportCode": "ORD",
+        "airportName": "Chicago O\u0027Hare International",
+        "address": {
+          "street": "10000 W O\u0027Hare Ave",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60666",
+          "country": "IL"
+        },
+        "latitude": 41.833333333333336,
+        "longitude": 87.61666666666666,
+        "passengerFacilityFee": 4.5
+      },
+      "arrivalCity": {
+        "airportCode": "PHX",
+        "airportName": "Phoenix Sky Harbor International",
+        "address": {
+          "street": "3400 E Sky Harbor Blvd",
+          "city": "Phoenix",
+          "state": "AZ",
+          "zip": "85034",
+          "country": "USA"
+        },
+        "latitude": 33.483333333333334,
+        "longitude": 112.06666666666666,
+        "passengerFacilityFee": 4.5
+      },
+      "departureDateTime": "09:09",
+      "arrivalDateTime": "11:06",
+      "flightNo": "N725",
+      "flightClass": "EP",
+      "aircraftType": "Airbus-A319",
+      "costPerMile": 0.2,
+      "productCode": "1260"
+    },
+    "fCost": 25.0,
+    "nextCost": 35.0,
+    "productCode": "90fc"
+  },
+  {
+    "ticket": {
+      "departureCity": {
+        "airportCode": "ATL",
+        "airportName": "Hartsfield Jackson Atlanta International Airport",
+        "address": {
+          "street": "6000 N Terminal Pkwy",
+          "city": "Atlanta",
+          "state": "GA",
+          "zip": "30320",
+          "country": "USA"
+        },
+        "latitude": 33.75,
+        "longitude": 84.38333333333334,
+        "passengerFacilityFee": 4.5
+      },
+      "arrivalCity": {
+        "airportCode": "LNK",
+        "airportName": "Lincoln Municipal",
+        "address": {
+          "street": "2400 W Adams St",
+          "city": "Lincoln",
+          "state": "NE",
+          "zip": "68524",
+          "country": "USA"
+        },
+        "latitude": 40.833333333333336,
+        "longitude": 96.66666666666667,
+        "passengerFacilityFee": 0.0
+      },
+      "departureDateTime": "21:15",
+      "arrivalDateTime": "22:42",
+      "flightNo": "NA4871",
+      "flightClass": "EC",
+      "aircraftType": "CRJ900",
+      "costPerMile": 0.15,
+      "productCode": "1241"
+    },
+    "fCost": 25.0,
+    "nextCost": 35.0,
+    "productCode": "90fb"
+  },
+  {
+    "name": "Progressive",
+    "ageClass": "21-54",
+    "costPerMile": 0.08,
+    "productCode": "fg23"
+  },
+  {
+    "ticket": {
+      "departureCity": {
+        "airportCode": "LAX",
+        "airportName": "Los Angeles International Airport",
+        "address": {
+          "street": "1 World Way",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip": "90045",
+          "country": "USA"
+        },
+        "latitude": 34.05,
+        "longitude": 118.25,
+        "passengerFacilityFee": 4.5
+      },
+      "arrivalCity": {
+        "airportCode": "ATL",
+        "airportName": "Hartsfield Jackson Atlanta International Airport",
+        "address": {
+          "street": "6000 N Terminal Pkwy",
+          "city": "Atlanta",
+          "state": "GA",
+          "zip": "30320",
+          "country": "USA"
+        },
+        "latitude": 33.75,
+        "longitude": 84.38333333333334,
+        "passengerFacilityFee": 4.5
+      },
+      "departureDateTime": "09:30",
+      "arrivalDateTime": "15:55",
+      "flightNo": "NA2222",
+      "flightClass": "BC",
+      "aircraftType": "Boeing757",
+      "costPerMile": 0.5,
+      "productCode": "1255"
+    },
+    "fCost": 25.0,
+    "nextCost": 35.0,
+    "productCode": "90fa"
+  },
+  {
+    "departureCity": {
+      "airportCode": "LNK",
+      "airportName": "Lincoln Municipal",
+      "address": {
+        "street": "2400 W Adams St",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68524",
+        "country": "USA"
+      },
+      "latitude": 40.833333333333336,
+      "longitude": 96.66666666666667,
+      "passengerFacilityFee": 0.0
+    },
+    "arrivalCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "06:00",
+    "arrivalDateTime": "09:08",
+    "flightNo": "NA4889",
+    "flightClass": "EC",
+    "aircraftType": "CRJ900",
+    "costPerMile": 0.15,
+    "productCode": "1238"
+  },
+  {
+    "name": "Labbat-Beer-15oz",
+    "cost": 4.5,
+    "productCode": "31f4"
+  },
+  {
+    "departureCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "LAX",
+      "airportName": "Los Angeles International Airport",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "country": "USA"
+      },
+      "latitude": 34.05,
+      "longitude": 118.25,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "10:50",
+    "arrivalDateTime": "12:50",
+    "flightNo": "NA1555",
+    "flightClass": "EC",
+    "aircraftType": "Boeing737-900ER",
+    "costPerMile": 0.15,
+    "productCode": "1258"
+  },
+  {
+    "name": "Italian Buffet",
+    "cost": 18.0,
+    "productCode": "32f4"
+  },
+  {
+    "departureCity": {
+      "airportCode": "LAX",
+      "airportName": "Los Angeles International Airport",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "country": "USA"
+      },
+      "latitude": 34.05,
+      "longitude": 118.25,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "09:30",
+    "arrivalDateTime": "15:55",
+    "flightNo": "NA2222",
+    "flightClass": "BC",
+    "aircraftType": "Boeing757",
+    "costPerMile": 0.5,
+    "productCode": "1255"
+  },
+  {
+    "redeemptionFee": 30.0,
+    "pointsPerMile": 90.0,
+    "departureCity": {
+      "airportCode": "LAX",
+      "airportName": "Los Angeles International Airport",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "country": "USA"
+      },
+      "latitude": 34.05,
+      "longitude": 118.25,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "10:15",
+    "arrivalDateTime": "18:13",
+    "flightNo": "NA101",
+    "flightClass": "EP",
+    "aircraftType": "Boeing737-900ER",
+    "costPerMile": 0.2,
+    "productCode": "1257"
+  },
+  {
+    "departureCity": {
+      "airportCode": "LAX",
+      "airportName": "Los Angeles International Airport",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "country": "USA"
+      },
+      "latitude": 34.05,
+      "longitude": 118.25,
+      "passengerFacilityFee": 4.5
+    },
+    "arrivalCity": {
+      "airportCode": "ATL",
+      "airportName": "Hartsfield Jackson Atlanta International Airport",
+      "address": {
+        "street": "6000 N Terminal Pkwy",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30320",
+        "country": "USA"
+      },
+      "latitude": 33.75,
+      "longitude": 84.38333333333334,
+      "passengerFacilityFee": 4.5
+    },
+    "departureDateTime": "09:30",
+    "arrivalDateTime": "15:55",
+    "flightNo": "NA2222",
+    "flightClass": "EP",
+    "aircraftType": "Boeing757",
+    "costPerMile": 0.2,
+    "productCode": "1256"
+  }
+]}

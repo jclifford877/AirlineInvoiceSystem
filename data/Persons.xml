@@ -1,0 +1,32 @@
+<list>
+  <person>
+    <personCode>5467</personCode>
+    <firstName> Barack</firstName>
+    <lastName>Obama</lastName>
+    <address>
+      <street>123 White House</street>
+      <city>Washington DC</city>
+      <state>MD</state>
+      <zip>11111</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>obama@whitehouse.gov</email>
+    </emails>
+    <phoneNumber>123-456-7890</phoneNumber>
+  </person>
+  <person>
+    <personCode>3251</personCode>
+    <firstName> James</firstName>
+    <lastName>Clifford</lastName>
+    <address>
+      <street>456 James Street</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68130</zip>
+      <country>USA</country>
+    </address>
+    <emails/>
+    <phoneNumber>996-0227</phoneNumber>
+  </person>
+</list>
